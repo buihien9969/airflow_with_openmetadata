@@ -1,0 +1,26 @@
+# Airflow logs
+logs/
+
+# Virtual environment
+venv/
+
+# Environment variables
+.env
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Local development settings
+.idea/
+.vscode/
+
+# OS generated files
+.DS_Store
+Thumbs.db
